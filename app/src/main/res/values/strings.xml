@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Threads</string>
+
+    <string name="no_thread">Без многопоточности</string>
+    <string name="async_task">AsyncTask</string>
+    <string name="thread">Thread</string>
+    <string name="runnable">Runnable</string>
+    <string name="no_sinch">Не синхронированные</string>
+    <string name="sinch">Синхронированные</string>
+
+    <string name="click">Click</string>
+    <string name="load">Load</string>
+    <string name="exe">Выполнить</string>
+
+    <string name="money">Стартовый баланс</string>
+    <string name="sub_money">По сколько снимать</string>
+</resources>
